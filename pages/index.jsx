@@ -16,7 +16,7 @@ function Home() {
           <div className="text-wrapper">
             <h1 className="title">Hi my Name is Tristan</h1>
             <p className="description">
-              I currently learn Web-developing and this is a site i deployed.
+              I currently learn Web-developing and this is a Site I deployed.
             </p>
 
             <Link href="/contact">
